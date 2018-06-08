@@ -1,0 +1,7 @@
+@import "componets/Footer/Footer.sass";
+@import "componets/Header/Header.sass";
+@import "componets/Main/Main.sass";
+.App {
+  margin: 0;
+  padding: 0;
+}
