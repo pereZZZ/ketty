@@ -1,11 +1,18 @@
 import React, { Component } from 'react';
+import Home from '../Home/Home'
+import Aboutus from '../AboutUs/AboutUs'
+import Works from '../Works/Works'
+import Contacts from '../Contacts/Contacts'
 import './Main.sass';
 
 class Main extends Component {
     render() {
         return (
             <div className="ketty__main">
-                Main
+                <Home />
+                <Works />
+                <Aboutus />
+                <Contacts />
             </div>
         );
     }

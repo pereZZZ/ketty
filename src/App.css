@@ -1,6 +1,10 @@
 @import "componets/Footer/Footer.sass";
 @import "componets/Header/Header.sass";
 @import "componets/Main/Main.sass";
+@import "componets/Home/Home.sass";
+@import "componets/Works/Works.sass";
+@import "componets/AboutUs/AboutUs.sass";
+@import "componets/Contacts/Contacts.sass";
 .App {
   margin: 0;
   padding: 0;
