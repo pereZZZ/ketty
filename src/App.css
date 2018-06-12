@@ -1,10 +1,12 @@
-@import "componets/Footer/Footer.sass";
-@import "componets/Header/Header.sass";
-@import "componets/Main/Main.sass";
-@import "componets/Home/Home.sass";
-@import "componets/Works/Works.sass";
-@import "componets/AboutUs/AboutUs.sass";
-@import "componets/Contacts/Contacts.sass";
+@import "normalize.css";
+@import "componets/Footer/Footer.styl";
+@import "componets/Header/Header.styl";
+@import "componets/Main/Main.styl";
+@import "componets/Home/Home.styl";
+@import "componets/Works/Works.styl";
+@import "componets/AboutUs/AboutUs.styl";
+@import "componets/Contacts/Contacts.styl";
+
 .App {
   margin: 0;
   padding: 0;

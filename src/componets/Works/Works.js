@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Works.sass';
+import './Works.styl';
 
 class Works extends Component {
     render() {

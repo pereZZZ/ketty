@@ -3,7 +3,7 @@ import Home from '../Home/Home'
 import Aboutus from '../AboutUs/AboutUs'
 import Works from '../Works/Works'
 import Contacts from '../Contacts/Contacts'
-import './Main.sass';
+import './Main.styl';
 
 class Main extends Component {
     render() {
